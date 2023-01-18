@@ -6,6 +6,7 @@ import java.util.stream.IntStream;
 
 public class MultiplicationManager {
 
+
     private static int submatrixSize = 0;
 
     public static boolean isMatrixComplete(int submatrixesSize, List<List<String>> currentSubmatrixes) {
